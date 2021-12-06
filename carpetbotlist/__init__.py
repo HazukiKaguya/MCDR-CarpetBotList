@@ -11,7 +11,8 @@ player_list = []
 worlds = {
     "minecraft:overworld": "§a主世界",
     "minecraft:the_end": "§d末地",
-    "minecraft:the_nether": "§4地狱",
+    "minecraft:the_nether": "§4下界",
+    "lotr:middle_earth": "§a中洲",
 }
 
 
