@@ -1,8 +1,8 @@
 {
-    "id": "carpetbotlist",
-    "version": "2.1.1",
-    "name": "CarpetBotList",
-    "description": { "en_us": "Help you manage your carpet fake player", "zh_cn": "帮助你管理地毯端假人" },
+    "id": "carpetbotlistlotr",
+    "version": "9.9.9",
+    "name": "CarpetBotListLotr",
+    "description": { "en_us": "Help you manage your carpet fake player in lotr renewed mod server", "zh_cn": "帮助你在魔戒mod复兴版服务器中管理地毯端假人" },
     "author": ["ZeroKelvin"],
     "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
     "dependencies": {
